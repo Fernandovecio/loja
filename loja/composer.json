@@ -1,0 +1,16 @@
+{
+    "name": "loja/loja",
+    "description": "Para um vida mais saudável.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fernandovecio",
+            "email": "fernando.vecio2@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
