@@ -20,6 +20,9 @@
             <legend>Edição do Cliente</legend>
             <form action="editaCliente.php" method="post" class="form">
                 <div>
+                <div class="card col-4 offset-4 text-center">
+                    <img src="<?= $cliente->foto ?>" id="tenisId" class="rounded" alt="foto do usuário">
+                </div>
                     <input type="hidden" name="idCliente" id="clienteId"value="<?= $cliente->id ?>">
                 </div>
                 <div class="mb-3 form-group">
