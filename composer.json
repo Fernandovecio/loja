@@ -1,0 +1,16 @@
+{
+    "name": "loja/loja",
+    "description": "Para uma vida mais saudável.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sneakers.Vr",
+            "email": "sneakers.vr@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
